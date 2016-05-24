@@ -134,6 +134,7 @@ More examples and best practice hints: [EXAMPLES.md](https://github.com/apidoc/a
 
 * [apidoc-swagger](https://github.com/fsbahman/apidoc-swagger)
 * [gulp-apidoc-swagger](https://github.com/fsbahman/gulp-apidoc-swagger)
+* [docmaster](https://github.com/bonzzy/docmaster)
 
 
 ## FAQ
